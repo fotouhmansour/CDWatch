@@ -1,0 +1,37 @@
+[
+  {
+    "study": "Park et al.",
+    "items": {"qy": 2, "pdi": "NR", "temRsd": "NR", "yield": "NR", "zeta": "NR", "ph": 2, "ionic": 1, "thermal": 2, "shelfLife": "NR", "biocompatibility": "NR", "function": 3, "precursor": 1, "solvent": 2, "energy": 3, "hazards": "NR", "chemicals": 3, "equipment": 3, "cost": "NR"},
+    "expected": {"score": 77.78, "coverage": 52.64}
+  },
+  {
+    "study": "Mohandoss et al.",
+    "items": {"qy": 2, "pdi": "NR", "temRsd": "NR", "yield": "NR", "zeta": "NR", "ph": 2, "ionic": 2, "thermal": 1, "shelfLife": "NR", "biocompatibility": "NR", "function": 2, "precursor": 1, "solvent": 2, "energy": 1, "hazards": "NR", "chemicals": 3, "equipment": 1, "cost": "NR"},
+    "expected": {"score": 61.48, "coverage": 52.64}
+  },
+  {
+    "study": "Qandeel et al.",
+    "items": {"qy": 2, "pdi": "NR", "temRsd": "NR", "yield": "NR", "zeta": 2, "ph": 2, "ionic": "NR", "thermal": 1, "shelfLife": "NR", "biocompatibility": "NR", "function": 3, "precursor": 3, "solvent": 3, "energy": 3, "hazards": "NR", "chemicals": 3, "equipment": 3, "cost": "NR"},
+    "expected": {"score": 82.22, "coverage": 52.64}
+  },
+  {
+    "study": "Chauhan et al.",
+    "items": {"qy": 3, "pdi": 3, "temRsd": "NR", "yield": "NR", "zeta": 2, "ph": 3, "ionic": 2, "thermal": 3, "shelfLife": "NR", "biocompatibility": "NR", "function": 3, "precursor": 3, "solvent": 2, "energy": 1, "hazards": "NR", "chemicals": 2, "equipment": 2, "cost": "NR"},
+    "expected": {"score": 89.81, "coverage": 61.39}
+  },
+  {
+    "study": "Tan et al.",
+    "items": {"qy": 3, "pdi": "NR", "temRsd": "NR", "yield": 2, "zeta": 3, "ph": "NR", "ionic": "NR", "thermal": "NR", "shelfLife": "NR", "biocompatibility": 2, "function": 2, "precursor": 1, "solvent": 2, "energy": 1, "hazards": "NR", "chemicals": 3, "equipment": 1, "cost": "NR"},
+    "expected": {"score": 75.66, "coverage": 72.64}
+  },
+  {
+    "study": "Amezaga Gonzalez et al.",
+    "items": {"qy": 1, "pdi": "NR", "temRsd": "NR", "yield": "NR", "zeta": 3, "ph": 2, "ionic": 1, "thermal": 2, "shelfLife": 2, "biocompatibility": 3, "function": "NR", "precursor": 2, "solvent": 2, "energy": 2, "hazards": "NR", "chemicals": 3, "equipment": 1, "cost": "NR"},
+    "expected": {"score": 66.67, "coverage": 57.64}
+  },
+  {
+    "study": "Ren et al.",
+    "items": {"qy": 2, "pdi": "NR", "temRsd": "NR", "yield": 3, "zeta": "NR", "ph": "NR", "ionic": "NR", "thermal": "NR", "shelfLife": "NR", "biocompatibility": "NR", "function": 2, "precursor": 1, "solvent": 2, "energy": 1, "hazards": "NR", "chemicals": 3, "equipment": 2, "cost": "NR"},
+    "expected": {"score": 70.63, "coverage": 53.47}
+  }
+]

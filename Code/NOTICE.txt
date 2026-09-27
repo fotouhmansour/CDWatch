@@ -1,0 +1,12 @@
+CDWatch source-availability notice
+
+Copyright (c) 2026 CDWatch authors. All rights reserved.
+
+The readable scientific scoring core and verification dataset are provided for
+inspection and reproduction of the numerical results reported in the CDWatch
+manuscript. They are not released under an open-source licence.
+
+No permission is granted to redistribute, modify, sublicense, commercialize,
+or incorporate this software into another product without prior written
+permission from the copyright holders. The production web-interface code and
+graphical assets remain proprietary.
